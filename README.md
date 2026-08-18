@@ -3,7 +3,7 @@
 "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." - W. L. Sheldon
 
 #### Languages                 
-<img align="center" alt="PV-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img width="30" height="40" alt="Sql_data_base_with_logo" src="https://github.com/user-attachments/assets/aff44460-3619-4fbb-a4f3-2883b1a84576" />
+<img align="center" alt="PV-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img width="50" height="20" alt="Sql_data_base_with_logo" src="https://github.com/user-attachments/assets/aff44460-3619-4fbb-a4f3-2883b1a84576" />
 
 
 #### Social
